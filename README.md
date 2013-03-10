@@ -4,13 +4,13 @@ Book Node.js Up and Running - Part 1 => Chapter 2 Doing Interesting Things => Le
 
 # Installation
 
- $ node install express
- $ node install ejb
- $ node server.js
+  $ node install express
+  $ node install ejb
+  $ node server.js
 
 # Usage
 
-Open a browser and go to http://localhost:8080
+  Open a browser and go to http://localhost:8080
 
 
 
