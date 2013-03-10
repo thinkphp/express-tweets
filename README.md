@@ -5,8 +5,8 @@ Book Node.js Up and Running - Part 1 => Chapter 2 Doing Interesting Things => Le
 # Installation
 
 ```
-  $ node install express
-  $ node install ejb
+  $ npm install express
+  $ npm install ejb
   $ node app.js
 ```
 
