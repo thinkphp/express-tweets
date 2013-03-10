@@ -7,7 +7,7 @@ Book Node.js Up and Running - Part 1 => Chapter 2 Doing Interesting Things => Le
 ```
   $ node install express
   $ node install ejb
-  $ node server.js
+  $ node app.js
 ```
 
 # Usage
