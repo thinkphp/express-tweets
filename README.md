@@ -1,6 +1,6 @@
 # express-tweets
 
-[Book] Node.js Up and Running - Part 1 => Chapter 2 Doing Interesting Things => Let's Build Twitter (working code for Express 3.0 and ejs embedded JavaScript for node without partials)
+O'Reilly [Book] Node.js Up and Running - Part 1 => Chapter 2 Doing Interesting Things => Let's Build Twitter (working code for Express 3.0 and ejs embedded JavaScript for node renderer without partials)
 
 # Installation
 
