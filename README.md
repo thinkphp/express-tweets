@@ -5,8 +5,10 @@ Book Node.js Up and Running - Part 1 => Chapter 2 Doing Interesting Things => Le
 # Installation
 
 ```
+  $ git clone git://github.com/thinkphp/express-tweets.git
   $ npm install express
   $ npm install ejb
+
   $ node app.js
 ```
 
