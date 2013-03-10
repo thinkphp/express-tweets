@@ -1,0 +1,33 @@
+html body {
+font-family:"Open Sans",Helvetica,"Lucida Grande","charcoal cy",arial,sans-serif;
+}
+h1 {color: #393}
+h2 {color: #999}
+pre, code {
+  padding: 5px 10px;
+  margin-bottom: 20px;
+  overflow: auto;
+  font-family: courier;
+  background: ghostwhite;
+  border: 1px solid #ddd;
+}
+
+code {
+  padding: 2px 5px;
+}
+
+pre code {
+  padding: 0;
+  margin-bottom: 0;
+  border: 0;
+}
+
+pre:before,
+pre:after {
+  content: '';
+  display: none;
+  width: 100%;
+  position: absolute;
+  left: 0;
+
+}
